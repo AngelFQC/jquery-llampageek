@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Taller jQuery Mobile</title>
+		<link rel="stylesheet" href="./jqm/jquery.mobile-1.2.0.min.css">
+		<link rel="stylesheet" href="./jqm/jquery.mobile.structure-1.2.0.min.css">
+		<script src="./js/jquery-1.8.3.min.js"></script>
+		<script src="./jqm/jquery.mobile-1.2.0.min.js"></script>
+		<script src="./js/site.js"></script>
+	</head>
+	<body>
+		<div data-role="page" id="inicio" data-title="Inicio">
+			<header data-role="header">
+				<h1>jQuery Mobile</h1>
+				<a href="#contacto" data-role="button" data-icon="check" class="ui-btn-right">Contacto</a>
+			</header>
+			<section data-role="content">
+				<h2>Taller jQuery Mobile 1.2.0</h2>
+				<p>II Llampageek 2012</p>
+				<p>EtiCA GNU/Linux</p>
+				<hr>
+				<ul>
+					<li>Estructura de una página</li>
+					<li>Formularios</li>
+					<li>Listview</li>
+					<li>Eventos</li>
+				</ul>
+				<a href="feed.html" data-role="button">RSS EtiCA GNU/Linux</a>
+				<hr>
+				<p>Angel Fernando Quiroz Campos</p>
+				<p>@AngelFQC</p>
+			</section>
+			<footer data-role="footer" data-position="fixed">
+				<h5>Llampageek</h5>
+			</footer>
+		</div>
+		<div data-role="page" id="contacto" data-title="Contacto">
+			<header data-role="header">
+				<h1>jQuery Mobile</h1>
+			</header>
+			<section data-role="content">
+				<form action="#" method="post">
+					<div data-role="fieldcontain">
+						<label for="nombre">Nombre</label>
+						<input name="nombre" id="nombre" type="text">
+					</div>
+					<div data-role="fieldcontain">
+						<label for="email">Correo electrónico</label>
+						<input name="email" id="email" ype="email">
+					</div>
+					<div id="tipo" data-role="fieldcontain">
+						<fieldset data-role="controlgroup" data-type="vertical">
+							<legend>Tipo de mensaje</legend>
+							<input id="radio1" name="tipo" value="1" type="radio">
+							<label for="radio1">Consulta</label>
+							<input id="radio2" name="tipo" value="2" type="radio">
+							<label for="radio2">Reclamo</label>
+							<input id="radio3" name="tipo" value="3" type="radio" checked>
+							<label for="radio3">Información</label>
+						</fieldset>
+					</div>
+					<div data-role="fieldcontain">
+						<label for="asunto">Asunto</label>
+						<input name="asunto" id="asunto" type="text" disabled>
+					</div>
+					<div data-role="fieldcontain">
+						<label for="mensaje">Mensaje</label>
+						<textarea name="mensaje" id="mensaje"></textarea>
+					</div>
+					<div class="ui-grid-a">
+						<div class="ui-block-a">
+							<button type="submit" data-theme="b" data-icon="gear">Enviar</button>
+						</div>
+						<div class="ui-block-b">
+							<a data-role="button" href="#inicio" data-icon="back" data-direction="reverse">Volver</a>
+						</div>
+					</div>
+				</form>
+			</section>
+			<footer data-role="footer" data-position="fixed">
+				<h5>Llampageek</h5>
+			</footer>
+		</div>
+	</body>
+</html>

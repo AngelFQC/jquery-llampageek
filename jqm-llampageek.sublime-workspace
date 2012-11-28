@@ -1,0 +1,915 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ad",
+				"addClass  (function)"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"en",
+				"enlace"
+			],
+			[
+				"conso",
+				"console	console.count()"
+			],
+			[
+				"get",
+				"getJSON  (function)"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"data-",
+				"data-role=  (attribute)"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lista",
+				"listaOptionInstituciones"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"lis",
+				"listaOptionDepartamentos"
+			],
+			[
+				"tpl",
+				"tplContent"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"_",
+				"_lat"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ht",
+				"htmlAux"
+			],
+			[
+				"real_escape_",
+				"mysql_real_escape_string"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"t",
+				"th	Tag"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"text",
+				"text-decoration:   (property)"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"cod",
+				"codigoR  (variable)"
+			],
+			[
+				"ut",
+				"utf8_decode"
+			],
+			[
+				"aray",
+				"array"
+			],
+			[
+				"tut",
+				"tutorialesSeleccionados"
+			],
+			[
+				"d",
+				"desminuirCapacidad  (function)"
+			],
+			[
+				"tuto",
+				"tutorial"
+			],
+			[
+				"regs",
+				"registroDetalle"
+			],
+			[
+				"registr",
+				"registroDetalle"
+			],
+			[
+				"set",
+				"setId  (function)"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"chec",
+				"checked  (function)"
+			],
+			[
+				"val",
+				"valueSelected"
+			],
+			[
+				"data",
+				"dataH"
+			],
+			[
+				"Datetim",
+				"DateTimeZone  (class)"
+			],
+			[
+				"doc",
+				"documentoNumero"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pago",
+				"pagoRealizado"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"lo",
+				"loginOk"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"a",
+				"actividades"
+			],
+			[
+				"rest",
+				"result"
+			],
+			[
+				"deta",
+				"detalleVisitaTecnica"
+			],
+			[
+				"vis",
+				"visitaTecnica"
+			],
+			[
+				"ca",
+				"capacidad"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"padd",
+				"padding	padding-left: length"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tipo",
+				"tipoActividad"
+			],
+			[
+				"slide",
+				"slider-nosotros"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"lett",
+				"letter-spacing"
+			],
+			[
+				"le",
+				"letter	letter-spacing: px"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"nu",
+				"numeroDocumento"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"meta",
+				"metaTag"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"aus",
+				"auspiciadores"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"backgr",
+				"background	background-color: name"
+			],
+			[
+				"real",
+				"real_escape_string"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"con",
+				"conx"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"SC_PAR",
+				"SC_PAPER"
+			],
+			[
+				"slas",
+				"stripslashes"
+			],
+			[
+				"marg",
+				"margin	margin-top: length"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"ol",
+				"ol	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jqu",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/afqc/jqm-llampageek/js/site.js",
+		"/C/xampp/htdocs/afqc/jqm-llampageek/feed.html",
+		"/C/xampp/htdocs/afqc/jqm-llampageek/assets/bd-rss-eticagnulinux.json",
+		"/C/xampp/htdocs/afqc/jqm-llampageek/index.html",
+		"/C/Users/Angel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Angel/AppData/Roaming/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/Angel/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/frm_destino.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/ajax/select_distritos.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/destino.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/js/actions.js",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/ajax/select_universidades.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/ajax/select_provincias.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/css/style.css",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/classes/Provincia.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/classes/Distrito.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/classes/Departamento.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/mail.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/classes/Institucion.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/js/site.js",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/footer.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/header.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/option.normal.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/form_inscripcion.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/ajax/instituciones_option.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/config.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/classes/RptDepartamentos.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/index.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/inicio.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/.htaccess",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/site/html/descargar.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/_mail_descargas.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/modelo/TipoParticipante.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reporte.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/config.php",
+		"/C/xampp/htdocs/afqc/web-tools/barcode/sample-gd.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/mail.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/Mail.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/include/mail_usat.html",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/_mail-usat.php",
+		"/C/xampp/htdocs/afqc/coneisc.org-post/form_contacto.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_mail_descargas.php",
+		"/C/xampp/htdocs/afqc/jetluya.com/site/js/audio.js",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/index.php",
+		"/C/xampp/htdocs/afqc/blog/google-maps-api/maps.js",
+		"/C/xampp/htdocs/afqc/blog/google-maps-api/index.html",
+		"/C/xampp/htdocs/afqc/blog/google-maps-api/style.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/css/style.css",
+		"/C/xampp/htdocs/afqc/apis.php",
+		"/C/xampp/htdocs/afqc/blog/google-maps/index.html",
+		"/C/xampp/htdocs/afqc/blog/google-maps/index.php",
+		"/C/Users/Angel/Downloads/coneisc_usat_cix.sql",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reporte-pago-univsersidad.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_listax.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_codigos.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reg-usat.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_codigos2.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/equipo.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/equipo.php",
+		"/C/xampp/htdocs/afqc/barcode/sample-gd.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/ajax/loggin",
+		"/C/xampp/htdocs/afqc/player.html",
+		"/C/xampp/htdocs/afqc/barcode/index.php",
+		"/C/xampp/htdocs/afqc/barcode/php-barcode-2.0.1.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/header.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/cronograma.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/_mail-conf.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reg-pago.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_mail_desglo.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/.htaccess",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/cronograma.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/include/mail_desglosables.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/footer.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/js/footer.js",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/informacion.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/modelo/Institucion.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/include/mail_visitas.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/index.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/header.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/modelo/Participante.class.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/modelo/Participante2.class.php",
+		"/C/Users/Angel/Downloads/loggin",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/actividades/lista.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/apeisc/info.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/hospedajes/detalle.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/hospedajes/lista.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/hospedajes/item.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/ponente/detalle.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/css/style.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/inicio/inicio.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/hospedajes/map.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/actividades/item.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/ponente/ponentes.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/actividades/item_ponente.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/ponente/item.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/presentacion.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/hospedaje.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/hospedajes.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/ponente.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/ponentes.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/index.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/footer.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/apeisc.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/actividades.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/restaurante/lista.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/inicio/item.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/css/jquery.mobile.structure-1.1.1.min.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/themes/coneisc.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-admin/site/html/header.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/vista-movil/site/html/costo_inscripcion/lista.html",
+		"/C/Users/Angel/Downloads/index.html",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reporte-visitas.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reporte-talleres.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/_reporte-tutoriales.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/.ftpquota",
+		"/C/xampp/htdocs/afqc/coneisc.org/welcome.msg",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/contacto.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/css/coneisc/jquery-ui-1.8.22.custom.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/form_contacto.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/form_cuenta.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/css/coneisc/jquery-ui-1.8.20.custom.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/js/site.js",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/js/ui-inscripcion.js",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/html/inscripciones.php",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/js/index.js",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/js/inscripcion.js",
+		"/C/xampp/htdocs/afqc/coneisc.org/site/css/reset.css",
+		"/C/xampp/htdocs/afqc/coneisc.org/error_log"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fieldset",
+			"’",
+			"′",
+			"‘",
+			"’",
+			".attr(\"disabled\", \"disabled\")",
+			"\"	",
+			"	\"",
+			"font-family: inherit;",
+			"<p>",
+			"\",\n\"",
+			"	",
+			"\n",
+			"	",
+			" de agosto",
+			"	",
+			"font-family:sans-serif;",
+			"</td></tr>",
+			"</tr><tr",
+			" style=\"text-align:left;width:2.852cm; \"",
+			" style=\"text-align:left;width:1.623cm; \"",
+			" style=\"text-align:left;width:1.79cm; \"",
+			" style=\"text-align:left;width:3.272cm; \"",
+			" style=\"text-align:left;width:2.769cm; \"",
+			" style=\"text-align:left;width:1.09cm; \"",
+			" style=\"text-align:left;width:2.628cm; \"",
+			" style=\"text-align:left;width:3.189cm; \"",
+			" style=\"text-align:left;width:3.803cm; \"",
+			" style=\"text-align:left;width:3.3cm; \"",
+			" style=\"text-align:left;width:2.258cm; \"",
+			" style=\"text-align:left;width:2.237cm; \"",
+			"font-family:Calibri;",
+			"	",
+			" font-family:sans-serif;",
+			" font-family:Calibri;",
+			"font-family:sans-serif;",
+			"width",
+			" style=\"text-align:left;width:3.3cm; \"",
+			" style=\"text-align:left;width:2.628cm; \"",
+			" style=\"text-align:left;width:1.09cm; \"",
+			" style=\"text-align:left;width:3.189cm; \"",
+			" style=\"text-align:left;width:3.272cm; \"",
+			" style=\"text-align:left;width:3.803cm; \"",
+			" style=\"text-align:left;width:1.79cm; \"",
+			" style=\"text-align:left;width:1.623cm; \"",
+			" style=\"text-align:left;width:2.852cm; \"",
+			" style=\"text-align:left;width:2.237cm; \"",
+			" style=\"text-align:left;width:2.769cm; \"",
+			" style=\"text-align:left;width:2.258cm; \"",
+			"font-family:Calibri;",
+			"Calibri;",
+			"ñ",
+			"Ñ",
+			"ñ",
+			"f",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"	",
+			"data-transition=\"fade\"",
+			"'",
+			"header",
+			"$header",
+			"$footer",
+			"$inicio",
+			"$presentacion",
+			"font-family: sans-serif",
+			"font-famil",
+			"font-family: sans-serif",
+			"font-size: 14px",
+			"font-size: 13px",
+			"374",
+			"	",
+			"alexjham",
+			"	",
+			"font-size:14px;",
+			"font-size:13px;",
+			"	",
+			"marci_20530@hotmail.com",
+			"tutorial",
+			"idTutorial",
+			"tutorialesSeleccionados",
+			", \", \"",
+			"	",
+			"Oh love",
+			"oh lo",
+			"	",
+			"actualiz",
+			"actualizarPassword",
+			"captio",
+			"),   ",
+			"array('id' => ",
+			"46654569",
+			"\"",
+			"class",
+			".section",
+			"section",
+			"message-dialog-coneisc",
+			"family",
+			"font-family:Helvetica, Helvetica Neue, Arial, sans-serif;",
+			"dialog",
+			"actividad",
+			"	<",
+			"$tplBuscar",
+			"$idHojaVida",
+			"th",
+			"table",
+			"slider-nosotros",
+			"</figure>",
+			"<figure>",
+			" </td>",
+			" style=\"text-align:left;width:2.335cm; \" class=\"Tabla1_A1\"",
+			" class=\"Tabla13\"",
+			"<p class=\"Table_20_Contents\">",
+			" class=\"Table_20_Contents\"",
+			"</p>",
+			"<p class=\"P1\">",
+			"</p><p class=\"P1\">",
+			" class=\"Tabla11\"",
+			"<p class=\"P2\">",
+			" class=\"Tabla11\"",
+			"</p>",
+			"<p class=\"P1\">",
+			"</p><p class=\"P1\">",
+			"<p class=\"P1\">",
+			"</p>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"'",
+			"",
+			"\"",
+			"font-family: inherit; font-size: 13px;",
+			"<p style=\"font-family: inherit;\">",
+			"\", \"",
+			"",
+			"font-family:'Open Sans', sans-serif;",
+			"</td>\n		</tr>",
+			"</tr>\n		<tr",
+			"",
+			"font-family:sans-serif;",
+			"",
+			" font-family:'Open Sans',sans-serif;",
+			" font-family:sans-serif;",
+			"",
+			"font-family:'Open Sans', sans-serif",
+			"'Open Sans', sans-serif",
+			"&ntilde;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"",
+			"data-transition=\"slide\"",
+			"\"",
+			"$tplHeader",
+			"$tplFooter",
+			"$tplInicio",
+			"$tplPresentacion",
+			"font-family: 'Open Sans', sans-serif",
+			"font-size: 13px",
+			"font-size: 14px",
+			"",
+			"font-size:13px;",
+			"font-size:14px;",
+			"",
+			"taller",
+			"idTaller",
+			"talleresSeleccionados",
+			"\", \"",
+			"",
+			",   ",
+			"),   ",
+			"",
+			"\\\"",
+			"font-family: 'Open Sans', sans-serif;",
+			"$tplRegistrar",
+			"$idHojaValoracion",
+			"",
+			"&nbsp;</td>",
+			"",
+			"<br />",
+			"",
+			"<br />",
+			"",
+			"<br />",
+			"",
+			"http://coneisc.org/",
+			"",
+			"om'",
+			"",
+			"Ã±",
+			"Ã³",
+			"Ã­",
+			"Ã©",
+			"Ã¡",
+			"Ãº",
+			"Ã³",
+			"Ã­",
+			"Ã©",
+			"Ã¡",
+			"",
+			"#950012",
+			"#8B2D25",
+			"font-family: 'Open Sans', sans-serif;",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Angel/AppData/Roaming/Sublime Text 2/Packages/User/coneisc.org.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true
+}
